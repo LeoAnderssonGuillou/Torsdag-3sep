@@ -41,7 +41,7 @@ namespace TorsSep4_Project
                 }
                 else if (action2 == "flee")
                 {
-                    Console.WriteLine("You go into hiding.");
+                    Console.WriteLine("You go into hiding Bruh.");
                     Console.ReadLine();
                 }
                 else
